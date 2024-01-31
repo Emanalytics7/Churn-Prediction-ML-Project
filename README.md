@@ -23,4 +23,4 @@ The central hypothesis is that Price Sensitivity is the primary influencer of cu
 ## **How to Use**
 
 To get started with this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/PowerCo-Churn-Prediction.git`
+1. Clone the repository: `git clone https://github.com/yourusername/Churn-Prediction ML-Project.git`
