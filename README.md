@@ -2,7 +2,7 @@
 
 # PowerCo Churn Prediction
 
-**Overview**
+## **Overview**
 
 This repository contains the code and documentation for PowerCo's customer churn prediction project. As a major gas and electricity utility, PowerCo is facing challenges with customer retention in the competitive energy market. The primary goal is to understand and address customer churn, with a focus on evaluating the hypothesis that price sensitivity is a significant driver.
 
@@ -19,7 +19,6 @@ This repository contains the code and documentation for PowerCo's customer churn
   
 The central hypothesis is that Price Sensitivity is the primary influencer of customer churn. The analysis aims to quantify the extent to which price sensitivity contributes to customer attrition.
 
-- - 
 
 ## **How to Use**
 
