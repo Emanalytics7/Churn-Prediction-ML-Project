@@ -16,5 +16,4 @@ This repository contains the code for PowerCo's customer churn prediction projec
 - Extrapolate the impact of price sensitivity on customer churn.
   
 ## **Hypothesis**
-  
-The central hypothesis is that Price Sensitivity is the primary influencer of customer churn. The analysis aims to quantify the extent to which price sensitivity contributes to customer attrition.
+`Price Sensitivity is the primary influencer of customer churn.` The analysis aims to quantify the extent to which price sensitivity contributes to customer attrition.
