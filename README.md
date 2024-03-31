@@ -18,9 +18,3 @@ This repository contains the code for PowerCo's customer churn prediction projec
 ## **Hypothesis**
   
 The central hypothesis is that Price Sensitivity is the primary influencer of customer churn. The analysis aims to quantify the extent to which price sensitivity contributes to customer attrition.
-
-
-## **How to Use**
-
-To get started with this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/Churn-Prediction-ML-Project.git`
